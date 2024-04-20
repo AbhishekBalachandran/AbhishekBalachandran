@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/100861026/251391595-d306b4f3-6312-449b-8179-fc5af1556163.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Abhishek B Ambady</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
