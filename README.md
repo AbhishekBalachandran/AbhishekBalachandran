@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbalachandran&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbalachandran" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhishekBalachandran](https://github.com/AbhishekBalachandran)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/AbhishekBalachandran)
 
 - 📄 Know about my experiences [Click here 👇](https://drive.google.com/file/d/1MzO6TAIzkVfgEJmTJrAyVVC_C1sc2qxJ/view?usp=drive_link)
 
